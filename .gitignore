@@ -1,0 +1,30 @@
+﻿# Keil MDK / ARM
+*.o
+*.d
+*.crf
+*.dep
+*.axf
+*.htm
+*.lnp
+*.lst
+*.map
+*.iex
+*.sct
+*.bak
+*.scvd
+
+# Build output
+Objects/
+Listings/
+
+# Keil project local settings (user-specific)
+*.uvguix.*
+*.uvoptx
+*.dbgconf
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+DebugConfig/
